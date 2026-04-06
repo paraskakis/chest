@@ -8,7 +8,7 @@ Contributions welcome via PR.
 
 ---
 
-## `theme: api-is-the-foundation`
+## `theme: api-is-the-business-model`
 
 ### Sam Altman -- CEO, OpenAI
 
@@ -18,6 +18,39 @@ Contributions welcome via PR.
 
 - Source (quote 1): [TBPN Live interview, Feb 2026](https://www.youtube.com/watch?v=KUNSNmr-1Bo&t=766s) (12:46)
 - Source (quote 2): [X post](https://x.com/sama/status/2014399391025574308)
+
+### Dario Amodei -- CEO, Anthropic
+
+> "I actually do think that the API model is more durable than many people think."
+
+> "If the technology is advancing quickly, if it's advancing exponentially, what that means is there's always a surface area of new use cases that have been developed in the last three months."
+
+- Source: [Dwarkesh Patel podcast, Feb 13 2026](https://www.dwarkesh.com/p/dario-amodei-2)
+
+### Aaron Levie -- CEO, Box
+
+> "The biggest implication of this advice is that everything must become API-first in what you're building. If you don't have an API for a feature, it might as well not exist. If it can't be exposed through a CLI or MCP server, you're at a disadvantage."
+
+> "If an agent can't easily sign up for your service and starting using it, you're basically dead to agents."
+
+> "I suspect we'll start to see a Darwinian effect in software where the products without the comprehensive APIs or CLIs will just slowly die off. The forces are just too strong on this one."
+
+> "Agents are going to use software in completely different ways than people will. And they won't interact with your application and user interface like a user, but instead through your APIs. This is why software more and more needs to work in a completely headless fashion."
+
+- Source (quotes 1-3): [X article "Building for trillions of agents", Mar 8 2026](https://x.com/levie/status/2030714592238956960)
+- Source (quote 4): [LinkedIn, Mar 18 2026](https://www.linkedin.com/feed/update/urn:li:activity:7440054615468920832/)
+
+### Andrej Karpathy -- AI Researcher (ex-Tesla, OpenAI)
+
+> "Every business you go to is still so used to giving you instructions over legacy interfaces. They expect you to navigate to web pages, click buttons, they give out instructions for where to click and what to enter here or there. This suddenly feels rude - why are you telling me what to do? Please give me the thing I can copy paste to my agent."
+
+- Source: [X reply to Aaron Levie, Mar 8 2026](https://x.com/karpathy/status/2030722108322717778) (147.5K views, 2.2K likes, 226 RTs, 1.1K bookmarks)
+- Image: Lobster army marching toward giant "API" letters
+- Levie replied: "I suspect we'll start to see a Darwinian effect in software where the products without the comprehensive APIs or CLIs will just slowly die off. The forces are just too strong on this one."
+
+---
+
+## `theme: api-is-the-foundation`
 
 ### Guillermo Rauch -- CEO, Vercel (created Next.js)
 
@@ -55,30 +88,21 @@ Contributions welcome via PR.
 - Source: [Master the AI Agent Distribution Channel, Mar 2026](https://www.news.aakashg.com/p/master-ai-agent-distribution-channel)
 - LinkedIn: [Post 1](https://www.linkedin.com/posts/aagupta_the-pms-guide-to-agent-distribution-mcp-activity-7435841760171319296-7zy2/), [Post 2](https://www.linkedin.com/posts/aagupta_5-of-apps-had-embedded-agents-jan-2024-activity-7436856464457125889-Rc2-/)
 
+### Jared Friedman -- Partner, Y Combinator
+
+> "Agents hate using websites. They want to use APIs. They want to write code."
+
+- Source: [YC Lightcone Podcast "The AI Agent Economy Is Here", Feb 2026](https://www.youtube.com/watch?v=Q8wVMdwhlh4) (~22:55)
+
+### Abhishek Katiyar -- Product Leader, Amazon
+
+> "I think every PM, not just AI PMs, should be learning about good API design right now. The product interface is shifting from 'humans to apps' to 'humans to agents to apps.'"
+
+- Source: [LinkedIn, Feb 23 2026](https://www.linkedin.com/feed/update/urn:li:activity:7431705909644439553/)
+
 ---
 
-## `theme: no-api-no-future`
-
-### Aaron Levie -- CEO, Box
-
-> "The biggest implication of this advice is that everything must become API-first in what you're building. If you don't have an API for a feature, it might as well not exist. If it can't be exposed through a CLI or MCP server, you're at a disadvantage."
-
-> "If an agent can't easily sign up for your service and starting using it, you're basically dead to agents."
-
-> "I suspect we'll start to see a Darwinian effect in software where the products without the comprehensive APIs or CLIs will just slowly die off. The forces are just too strong on this one."
-
-> "Agents are going to use software in completely different ways than people will. And they won't interact with your application and user interface like a user, but instead through your APIs. This is why software more and more needs to work in a completely headless fashion."
-
-- Source (quotes 1-3): [X article "Building for trillions of agents", Mar 8 2026](https://x.com/levie/status/2030714592238956960)
-- Source (quote 4): [LinkedIn, Mar 18 2026](https://www.linkedin.com/feed/update/urn:li:activity:7440054615468920832/)
-
-### Andrej Karpathy -- AI Researcher (ex-Tesla, OpenAI)
-
-> "Every business you go to is still so used to giving you instructions over legacy interfaces. They expect you to navigate to web pages, click buttons, they give out instructions for where to click and what to enter here or there. This suddenly feels rude - why are you telling me what to do? Please give me the thing I can copy paste to my agent."
-
-- Source: [X reply to Aaron Levie, Mar 8 2026](https://x.com/karpathy/status/2030722108322717778) (147.5K views, 2.2K likes, 226 RTs, 1.1K bookmarks)
-- Image: Lobster army marching toward giant "API" letters
-- Levie replied: "I suspect we'll start to see a Darwinian effect in software where the products without the comprehensive APIs or CLIs will just slowly die off. The forces are just too strong on this one."
+## `theme: api-buyer-decisions`
 
 ### Cody Schneider -- Growth, AI-native operator
 
@@ -89,30 +113,6 @@ Contributions welcome via PR.
 > "There's a thing you can do in their UI that I can't do in their API. I'm literally about to churn because this is critical for me and now it feels archaic for me to go and interact with your fucking UI to do this outcome, this output that I need."
 
 - Source: [YouTube, Mar 2026](https://www.youtube.com/watch?v=RB_M2mKiOcY) (5:15, 48:52)
-
----
-
-## `theme: apis-are-durable`
-
-### Dario Amodei -- CEO, Anthropic
-
-> "I actually do think that the API model is more durable than many people think."
-
-> "If the technology is advancing quickly, if it's advancing exponentially, what that means is there's always a surface area of new use cases that have been developed in the last three months."
-
-- Source: [Dwarkesh Patel podcast, Feb 13 2026](https://www.dwarkesh.com/p/dario-amodei-2)
-
-### Brandur Leach -- Engineer (ex-Heroku, Stripe)
-
-> "Suddenly, an API is no longer liability, but a major saleable vector to give users what they want: a way into the services they use and pay for so that an agent can carry out work on their behalf."
-
-> "The convention of the future will be human language, fed into what looks a lot like a terminal, and fulfilled via API."
-
-- Source: [The Second Wave of the API-first Economy, Mar 27 2026](https://brandur.org/second-wave-api-first)
-
----
-
-## `theme: apis-going-mainstream`
 
 ### Greg Isenberg -- Startup Studio founder
 
@@ -128,27 +128,23 @@ Contributions welcome via PR.
 
 - Source: [Tim Ferriss Show #859, Mar 2026](https://www.youtube.com/watch?v=Vw1-tGkT9K8)
 
+---
+
+## `theme: apis-going-mainstream`
+
+### Brandur Leach -- Engineer (ex-Heroku, Stripe)
+
+> "Suddenly, an API is no longer liability, but a major saleable vector to give users what they want: a way into the services they use and pay for so that an agent can carry out work on their behalf."
+
+> "The convention of the future will be human language, fed into what looks a lot like a terminal, and fulfilled via API."
+
+- Source: [The Second Wave of the API-first Economy, Mar 27 2026](https://brandur.org/second-wave-api-first)
+
 ### Ben Tossell -- Founder, Ben's Bites
 
 > "Agents are the software market from now on. Build something agents choose. CLI/API first."
 
 - Source: [X, Feb 7 2026](https://x.com/bentossell/status/2020077689969721404)
-
----
-
-## `theme: pms-need-api-skills`
-
-### Jared Friedman -- Partner, Y Combinator
-
-> "Agents hate using websites. They want to use APIs. They want to write code."
-
-- Source: [YC Lightcone Podcast "The AI Agent Economy Is Here", Feb 2026](https://www.youtube.com/watch?v=Q8wVMdwhlh4) (~22:55)
-
-### Abhishek Katiyar -- Product Leader, Amazon
-
-> "I think every PM, not just AI PMs, should be learning about good API design right now. The product interface is shifting from 'humans to apps' to 'humans to agents to apps.'"
-
-- Source: [LinkedIn, Feb 23 2026](https://www.linkedin.com/feed/update/urn:li:activity:7431705909644439553/)
 
 ---
 
