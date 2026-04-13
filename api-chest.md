@@ -132,10 +132,6 @@ Contributions welcome via PR.
 
 > "You have to be completely comfortable serving up your value proposition as much through agent on or off your platform, as you are your own interface."
 
-> "In a world of 100X+ more agents doing work with software than people ever did, there are far more use-cases to drive and be a part of. In many ways it's a renaissance if you're tied to critical data or workflows because of what customers can now use you for."
-
-> "It will certainly force an evolution of business models over time — whether you embed all of this agentic usage in a seat license or make it all consumption based — but dollars will always flow to where value is created."
-
 - Source: [LinkedIn, Apr 11 2026](https://www.linkedin.com/feed/update/urn:li:activity:7448750026912215041/)
 
 ### Cody Schneider — Growth, AI-native operator
