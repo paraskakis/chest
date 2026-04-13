@@ -109,6 +109,19 @@ Contributions welcome via PR.
 
 ---
 
+## `theme: designing-agent-experience`
+
+### Dharmesh Shah -- Founder & CTO, HubSpot
+
+> "The companies that succeed in the agentic era are those that take a thoughtful approach to *designing* an agentic user experience (AUX)."
+
+> "Yes, that will likely involve APIs, MCPs and CLIs. But the difference will be in the *ergonomics* of the interface. We need to figure out *how* agents actually want to use our products/platforms. Because if all they wanted to do was use them like humans do, we have 'computer use' for that."
+
+- Source: [LinkedIn, Apr 12 2026](https://www.linkedin.com/posts/dharmesh_every-b2b-software-company-is-or-should-activity-7448808898326654978-iW20)
+- Context: Dharmesh coins **AUX (agentic user experience)** as the category label -- parallel to UX. The argument: wrapping existing APIs in MCP is not enough; if agents only wanted to use products the way humans do, "computer use" would suffice. The design problem is how agents actually want to operate.
+
+---
+
 ## `theme: api-buyer-decisions`
 
 ### Cody Schneider -- Growth, AI-native operator
