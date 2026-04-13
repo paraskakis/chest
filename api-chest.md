@@ -124,6 +124,20 @@ Contributions welcome via PR.
 
 ## `theme: api-buyer-decisions`
 
+### Aaron Levie — CEO, Box
+
+> "Asked a group of 20 IT leaders across banking, media, finance, and healthcare if they will have any vendors left in 3-5 years that don't have a good API option for their service and it was a unanimous 'no'."
+
+> "The more I meet enterprise CIOs and AI leaders outside of tech, the more it's obvious that if you're building software that doesn't have a great headless mode to work well with AI agents, you're going to be at risk in the coming years."
+
+> "You have to be completely comfortable serving up your value proposition as much through agent on or off your platform, as you are your own interface."
+
+> "In a world of 100X+ more agents doing work with software than people ever did, there are far more use-cases to drive and be a part of. In many ways it's a renaissance if you're tied to critical data or workflows because of what customers can now use you for."
+
+> "It will certainly force an evolution of business models over time — whether you embed all of this agentic usage in a seat license or make it all consumption based — but dollars will always flow to where value is created."
+
+- Source: [LinkedIn, Apr 11 2026](https://www.linkedin.com/feed/update/urn:li:activity:7448750026912215041/)
+
 ### Cody Schneider — Growth, AI-native operator
 
 > "Everything that I do now, where I start my work, exists within here [a folder of API keys]. I'm starting to interact with everything that I do on a daily basis via the APIs. This is actually how I'm thinking about everything I do now and how I buy software in particular, is how robust the API is."
