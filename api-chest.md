@@ -1,6 +1,6 @@
 # API Chest
 
-Loot for API advocates. Open this chest when you need to make the case for APIs -- at your company, in a presentation, a blog post, or a pitch.
+Loot for API advocates. Open this chest when you need to make the case for APIs — at your company, in a presentation, a blog post, or a pitch.
 
 **How to use:** Point your AI agent at this file and tell it what you're arguing for. Each section has a theme - match the theme to your argument. Use the source links for credibility. Mix quotes from different voices (CEOs, investors, practitioners, builders) for a stronger case.
 
@@ -10,7 +10,7 @@ Contributions welcome via PR.
 
 ## `theme: api-is-the-business-model`
 
-### Sam Altman -- CEO, OpenAI
+### Sam Altman — CEO, OpenAI
 
 > "Every company is an API company now, whether they want to be or not."
 
@@ -19,7 +19,7 @@ Contributions welcome via PR.
 - Source (quote 1): [TBPN Live interview, Feb 2026](https://www.youtube.com/watch?v=KUNSNmr-1Bo&t=766s) (12:46)
 - Source (quote 2): [X post](https://x.com/sama/status/2014399391025574308)
 
-### Dario Amodei -- CEO, Anthropic
+### Dario Amodei — CEO, Anthropic
 
 > "I actually do think that the API model is more durable than many people think."
 
@@ -27,7 +27,7 @@ Contributions welcome via PR.
 
 - Source: [Dwarkesh Patel podcast, Feb 13 2026](https://www.dwarkesh.com/p/dario-amodei-2)
 
-### Aaron Levie -- CEO, Box
+### Aaron Levie — CEO, Box
 
 > "The biggest implication of this advice is that everything must become API-first in what you're building. If you don't have an API for a feature, it might as well not exist. If it can't be exposed through a CLI or MCP server, you're at a disadvantage."
 
@@ -40,7 +40,7 @@ Contributions welcome via PR.
 - Source (quotes 1-3): [X article "Building for trillions of agents", Mar 8 2026](https://x.com/levie/status/2030714592238956960)
 - Source (quote 4): [LinkedIn, Mar 18 2026](https://www.linkedin.com/feed/update/urn:li:activity:7440054615468920832/)
 
-### Andrej Karpathy -- AI Researcher (ex-Tesla, OpenAI)
+### Andrej Karpathy — AI Researcher (ex-Tesla, OpenAI)
 
 > "Every business you go to is still so used to giving you instructions over legacy interfaces. They expect you to navigate to web pages, click buttons, they give out instructions for where to click and what to enter here or there. This suddenly feels rude - why are you telling me what to do? Please give me the thing I can copy paste to my agent."
 
@@ -52,7 +52,7 @@ Contributions welcome via PR.
 
 ## `theme: api-is-the-foundation`
 
-### Guillermo Rauch -- CEO, Vercel (created Next.js)
+### Guillermo Rauch — CEO, Vercel (created Next.js)
 
 > "If you're starting now (or starting over), focus on the API. Do it for the agents."
 
@@ -64,7 +64,7 @@ Contributions welcome via PR.
 
 - Source: [X thread "On APIs", Feb 12 2026](https://x.com/rauchg/status/2022050269262151783/)
 
-### Peter Yang -- Product Lead, Roblox
+### Peter Yang — Product Lead, Roblox
 
 > "For many products, AI agents will be your first users, not humans."
 
@@ -79,7 +79,7 @@ Contributions welcome via PR.
 - Source (quotes 3-4): [LinkedIn, Feb 25 2026](https://www.linkedin.com/posts/petergyang_most-companies-think-being-ai-agent-first-activity-7432809233009659904-o8qk)
 - Deep dive: [Why You Need to Build Your Product for AI Agents First](https://creatoreconomy.so/p/why-you-need-to-build-your-product-for-ai-agents-first)
 
-### Aakash Gupta -- Product Growth (307K newsletter)
+### Aakash Gupta — Product Growth (307K newsletter)
 
 > "If your product cannot be parsed, authenticated, and executed by an agent, you are invisible in the fastest-growing software channel."
 
@@ -88,19 +88,19 @@ Contributions welcome via PR.
 - Source: [Master the AI Agent Distribution Channel, Mar 2026](https://www.news.aakashg.com/p/master-ai-agent-distribution-channel)
 - LinkedIn: [Post 1](https://www.linkedin.com/posts/aagupta_the-pms-guide-to-agent-distribution-mcp-activity-7435841760171319296-7zy2/), [Post 2](https://www.linkedin.com/posts/aagupta_5-of-apps-had-embedded-agents-jan-2024-activity-7436856464457125889-Rc2-/)
 
-### Jared Friedman -- Partner, Y Combinator
+### Jared Friedman — Partner, Y Combinator
 
 > "Agents hate using websites. They want to use APIs. They want to write code."
 
 - Source: [YC Lightcone Podcast "The AI Agent Economy Is Here", Feb 2026](https://www.youtube.com/watch?v=Q8wVMdwhlh4) (~22:55)
 
-### Abhishek Katiyar -- Product Leader, Amazon
+### Abhishek Katiyar — Product Leader, Amazon
 
 > "I think every PM, not just AI PMs, should be learning about good API design right now. The product interface is shifting from 'humans to apps' to 'humans to agents to apps.'"
 
 - Source: [LinkedIn, Feb 23 2026](https://www.linkedin.com/feed/update/urn:li:activity:7431705909644439553/)
 
-### Dharmesh Shah -- Founder & CTO, HubSpot
+### Dharmesh Shah — Founder & CTO, HubSpot
 
 > "Being agentic is not just about agents running *on* our platform, it's about agents *running* our platform (being able to operate it). That's how you take AI from being a simple tool to a savvy teammate."
 
@@ -111,20 +111,20 @@ Contributions welcome via PR.
 
 ## `theme: designing-agent-experience`
 
-### Dharmesh Shah -- Founder & CTO, HubSpot
+### Dharmesh Shah — Founder & CTO, HubSpot
 
 > "The companies that succeed in the agentic era are those that take a thoughtful approach to *designing* an agentic user experience (AUX)."
 
 > "Yes, that will likely involve APIs, MCPs and CLIs. But the difference will be in the *ergonomics* of the interface. We need to figure out *how* agents actually want to use our products/platforms. Because if all they wanted to do was use them like humans do, we have 'computer use' for that."
 
 - Source: [LinkedIn, Apr 12 2026](https://www.linkedin.com/posts/dharmesh_every-b2b-software-company-is-or-should-activity-7448808898326654978-iW20)
-- Context: Dharmesh coins **AUX (agentic user experience)** as the category label -- parallel to UX. The argument: wrapping existing APIs in MCP is not enough; if agents only wanted to use products the way humans do, "computer use" would suffice. The design problem is how agents actually want to operate.
+- Context: Dharmesh coins **AUX (agentic user experience)** as the category label — parallel to UX. The argument: wrapping existing APIs in MCP is not enough; if agents only wanted to use products the way humans do, "computer use" would suffice. The design problem is how agents actually want to operate.
 
 ---
 
 ## `theme: api-buyer-decisions`
 
-### Cody Schneider -- Growth, AI-native operator
+### Cody Schneider — Growth, AI-native operator
 
 > "Everything that I do now, where I start my work, exists within here [a folder of API keys]. I'm starting to interact with everything that I do on a daily basis via the APIs. This is actually how I'm thinking about everything I do now and how I buy software in particular, is how robust the API is."
 
@@ -134,13 +134,13 @@ Contributions welcome via PR.
 
 - Source: [YouTube, Mar 2026](https://www.youtube.com/watch?v=RB_M2mKiOcY) (5:15, 48:52)
 
-### Greg Isenberg -- Startup Studio founder
+### Greg Isenberg — Startup Studio founder
 
 > "In the old way of SaaS tools, an API was a nice to have. It was about how good is the software, how good is the UX, how good is the brand... Now when you're living in a terminal and you're using MCPs to talk to LLMs, the nice to have is actually the UI. The nice to have is the SaaS."
 
 - Source: [YouTube, Mar 2026](https://www.youtube.com/watch?v=RB_M2mKiOcY) (48:52)
 
-### Tim Ferriss -- Author, Investor, Podcaster
+### Tim Ferriss — Author, Investor, Podcaster
 
 > "Here's an API key and it will figure out how to connect to a given service like Gmail and if you have an API key for a product, you can easily start using it in Claude as it will simply write itself a script."
 
@@ -152,7 +152,7 @@ Contributions welcome via PR.
 
 ## `theme: apis-going-mainstream`
 
-### Brandur Leach -- Engineer (ex-Heroku, Stripe)
+### Brandur Leach — Engineer (ex-Heroku, Stripe)
 
 > "Suddenly, an API is no longer liability, but a major saleable vector to give users what they want: a way into the services they use and pay for so that an agent can carry out work on their behalf."
 
@@ -160,7 +160,7 @@ Contributions welcome via PR.
 
 - Source: [The Second Wave of the API-first Economy, Mar 27 2026](https://brandur.org/second-wave-api-first)
 
-### Ben Tossell -- Founder, Ben's Bites
+### Ben Tossell — Founder, Ben's Bites
 
 > "Agents are the software market from now on. Build something agents choose. CLI/API first."
 

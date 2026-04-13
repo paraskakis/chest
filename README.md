@@ -4,7 +4,7 @@ Curated quote collections for building arguments. Open a chest, point your agent
 
 ## Chests
 
-- [API Chest](api-chest.md) -- Why APIs matter, from the people building the future
+- [API Chest](api-chest.md) — Why APIs matter, from the people building the future
 
 ## How to use
 
