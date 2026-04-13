@@ -100,6 +100,13 @@ Contributions welcome via PR.
 
 - Source: [LinkedIn, Feb 23 2026](https://www.linkedin.com/feed/update/urn:li:activity:7431705909644439553/)
 
+### Dharmesh Shah -- Founder & CTO, HubSpot
+
+> "Being agentic is not just about agents running *on* our platform, it's about agents *running* our platform (being able to operate it). That's how you take AI from being a simple tool to a savvy teammate."
+
+- Source: [LinkedIn, Apr 12 2026](https://www.linkedin.com/posts/dharmesh_every-b2b-software-company-is-or-should-activity-7448808898326654978-iW20)
+- Context: Dharmesh framed this as a note he had just posted in a private Slack thread with the HubSpot exec team.
+
 ---
 
 ## `theme: api-buyer-decisions`
