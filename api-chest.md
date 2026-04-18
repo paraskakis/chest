@@ -37,8 +37,11 @@ Contributions welcome via PR.
 
 > "Agents are going to use software in completely different ways than people will. And they won't interact with your application and user interface like a user, but instead through your APIs. This is why software more and more needs to work in a completely headless fashion."
 
+> "Agents are going to use software 100X more than people will in the future."
+
 - Source (quotes 1-3): [X article "Building for trillions of agents", Mar 8 2026](https://x.com/levie/status/2030714592238956960)
 - Source (quote 4): [LinkedIn, Mar 18 2026](https://www.linkedin.com/feed/update/urn:li:activity:7440054615468920832/)
+- Source (quote 5): [LinkedIn, Apr 18 2026 — on Salesforce Headless 360](https://www.linkedin.com/posts/boxaaron_the-big-news-this-week-in-software-was-salesforces-share-7451336945659535362-QNZw/)
 
 ### Andrej Karpathy — AI Researcher (ex-Tesla, OpenAI)
 
