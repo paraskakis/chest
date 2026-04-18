@@ -48,6 +48,12 @@ Contributions welcome via PR.
 - Image: Lobster army marching toward giant "API" letters
 - Levie replied: "I suspect we'll start to see a Darwinian effect in software where the products without the comprehensive APIs or CLIs will just slowly die off. The forces are just too strong on this one."
 
+### Marc Benioff — CEO & Co-Founder, Salesforce
+
+> "Welcome Salesforce Headless 360: No Browser Required! Our API is the UI."
+
+- Source: [X, Apr 16 2026](https://x.com/Benioff/status/2044981547267395620) — 2.2M views
+
 ---
 
 ## `theme: api-is-the-foundation`
