@@ -116,6 +116,14 @@ Contributions welcome via PR.
 - Source: [LinkedIn, Apr 12 2026](https://www.linkedin.com/posts/dharmesh_every-b2b-software-company-is-or-should-activity-7448808898326654978-iW20)
 - Context: Dharmesh framed this as a note he had just posted in a private Slack thread with the HubSpot exec team.
 
+### Ian McCrystal — Staff Engineering Manager, Agent Experience, Stripe
+
+> "The world needs 100x more APIs. Maybe 1000x."
+
+- Source (long form): [The world needs 100x more APIs — LinkedIn Pulse, Apr 2026](https://www.linkedin.com/pulse/world-needs-100x-more-apis-ian-mccrystal-o9ecc/)
+- Source (short form): [LinkedIn post](https://www.linkedin.com/posts/ianms_some-assertions-about-the-future-after-spending-activity-7450971768216846336-PkhS)
+- Context: McCrystal founded the team building Stripe's AI agent experience and wrote the company strategy (Stripe MCP, Agentic onboarding / Claimable Sandboxes, AI-powered documentation). Previously Head of Docs at Stripe.
+
 ---
 
 ## `theme: designing-agent-experience`
