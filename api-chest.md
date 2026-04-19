@@ -29,6 +29,8 @@ Contributions welcome via PR.
 
 ### Aaron Levie — CEO, Box
 
+> "Make something agents want."
+
 > "The biggest implication of this advice is that everything must become API-first in what you're building. If you don't have an API for a feature, it might as well not exist. If it can't be exposed through a CLI or MCP server, you're at a disadvantage."
 
 > "If an agent can't easily sign up for your service and starting using it, you're basically dead to agents."
