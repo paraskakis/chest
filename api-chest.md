@@ -41,9 +41,12 @@ Contributions welcome via PR.
 
 > "Agents are going to use software 100X more than people will in the future."
 
+> "...which means that the value proposition has to be: how good are your APIs? How well designed are they? Are they ready for agents? Can you monetize that in some way that makes sense?"
+
 - Source (quotes 1-3): [X article "Building for trillions of agents", Mar 8 2026](https://x.com/levie/status/2030714592238956960)
 - Source (quote 4): [LinkedIn, Mar 18 2026](https://www.linkedin.com/feed/update/urn:li:activity:7440054615468920832/)
 - Source (quote 5): [LinkedIn, Apr 18 2026 — on Salesforce Headless 360](https://www.linkedin.com/posts/boxaaron_the-big-news-this-week-in-software-was-salesforces-share-7451336945659535362-QNZw/)
+- Source (quote 6): [20VC with Harry Stebbings, Apr 2026](https://www.youtube.com/watch?v=qrxQikecJL0) (15:20)
 
 ### Andrej Karpathy — AI Researcher (ex-Tesla, OpenAI)
 
