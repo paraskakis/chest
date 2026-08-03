@@ -133,6 +133,13 @@ Contributions welcome via PR.
 
 ## `theme: designing-agent-experience`
 
+### Naval Ravikant — Founder, AngelList; investor
+
+> "Agent Programming Interface."
+
+- Source: [X, Aug 3 2026](https://x.com/naval/status/2084117793667178756)
+- Context: The whole post — four words, re-pointing the "A" in API from *Application* to *Agent*. 385.7K views inside a day. Top reply, Steve Li: "New definition of API. And it's backward compatible." Worth noting who said it: Naval is a generalist investor, not an API or dev-tools figure, so the acronym being restated at that reach is a sign the idea has left the practitioner bubble.
+
 ### Dharmesh Shah — Founder & CTO, HubSpot
 
 > "The companies that succeed in the agentic era are those that take a thoughtful approach to *designing* an agentic user experience (AUX)."
