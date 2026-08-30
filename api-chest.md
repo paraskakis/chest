@@ -66,7 +66,7 @@ Contributions welcome via PR.
 
 ## `theme: api-is-the-foundation`
 
-### Paul Graham — Co-founder, Y Combinator (as recalled by Sam Altman)
+### Sam Altman — CEO, OpenAI (reflecting on Paul Graham's advice)
 
 > "You should always make an API. No matter what, you should make an API. Good stuff will happen."
 
