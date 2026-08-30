@@ -66,6 +66,12 @@ Contributions welcome via PR.
 
 ## `theme: api-is-the-foundation`
 
+### Paul Graham — Co-founder, Y Combinator (as recalled by Sam Altman)
+
+> "You should always make an API. No matter what, you should make an API. Good stuff will happen."
+
+- Source: [Sam Altman interview, Sep 2025](https://www.youtube.com/watch?v=_4FKSZwp7z8&t=6s)
+
 ### Guillermo Rauch — CEO, Vercel (created Next.js)
 
 > "If you're starting now (or starting over), focus on the API. Do it for the agents."
